@@ -403,6 +403,7 @@ option{
     font-family: 'Kanit';
     color: black;
     font-size: 90px;
+    padding: 10px;
 }
 video{
     width: 600px;
